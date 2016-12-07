@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDKata", "TDDKata\TDDKata.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDKataTest", "TDDKataTest\TDDKataTest.csproj", "{FF25988D-955F-4B4E-8BEE-A7B10FD1AF6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDKataOutput", "TDDKataOutput\TDDKataOutput.csproj", "{2C2B8C6C-72A3-4859-8E85-3821BB951EF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF25988D-955F-4B4E-8BEE-A7B10FD1AF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF25988D-955F-4B4E-8BEE-A7B10FD1AF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF25988D-955F-4B4E-8BEE-A7B10FD1AF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2B8C6C-72A3-4859-8E85-3821BB951EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2B8C6C-72A3-4859-8E85-3821BB951EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2B8C6C-72A3-4859-8E85-3821BB951EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2B8C6C-72A3-4859-8E85-3821BB951EF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
